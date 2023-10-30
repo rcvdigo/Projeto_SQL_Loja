@@ -18,6 +18,10 @@ Para este cenário você irá utilizar seu esquema conceitual, criado no desafio
 
 Após a criação do esquema lógico, realize a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Especifique ainda queries mais complexas do que apresentadas durante a explicação do desafio. Sendo assim, crie queries SQL com as cláusulas abaixo:
 
+# Teoria Dos Conjuntos (Representação Gráfica)
+![Exemplo de conjunto de dados](conjunto_de_dados_exemplo.png)
+
+
 - Recuperações simples com SELECT Statement;
 
 ```sql
